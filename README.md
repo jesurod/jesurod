@@ -3,7 +3,7 @@
 Actualmente curso Ingeniería Informática y Administración y Dirección de Empresas en la Universidad de Granada.
 
 ## 🛠️ Tecnologías con las que he trabajado
-- **Lenguajes**: Python, C++, Bash, SQL, Ruby, Java
+- **Lenguajes**: Python, C, C++, Bash, SQL, Ruby, Java
 - **Sistemas y DevOps**: Ansible, Docker, Prometheus, Grafana, Node Exporter, systemd
 - **Entornos Linux**: Rocky Linux, Ubuntu
 - **Servidores web**: Nginx, Apache
