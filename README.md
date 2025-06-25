@@ -30,8 +30,8 @@ Voy a realizar la mención en **Computación y Sistemas Inteligentes**, enfocán
 
 ## 📈 GitHub Stats
 
-![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesurod24&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesurod24&layout=compact&theme=tokyonight)
+![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesurod&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesurod&layout=compact&theme=tokyonight)
 
 ## 📫 Contacto
 - 📧 Email: jesurod24@gmail.com  
