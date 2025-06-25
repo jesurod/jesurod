@@ -36,4 +36,4 @@ Voy a realizar la mención en **Computación y Sistemas Inteligentes**, enfocán
 ## 📫 Contacto
 - 📧 Email: jesurod24@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-rodr%C3%ADguez-gonz%C3%A1lez-233b89281/)  
-- 🌐 [Portafolio (en desarrollo)]([https://tuweb.dev](https://jesurod.github.io/))
+- 🌐 [Portafolio (en desarrollo)](https://jesurod.github.io/)
