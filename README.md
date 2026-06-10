@@ -1,14 +1,14 @@
 # 🧩 Sobre mí
 
-Actualmente curso Ingeniería Informática y Administración y Dirección de Empresas en la Universidad de Granada. A lo largo de la carrera he trabajado en proyectos que combinan sistemas, automatización, monitorización y agentes inteligentes. Me gusta diseñar soluciones eficientes y mantener el control técnico de cada capa, desde la infraestructura hasta la lógica.
+Actualmente curso el Doble Grado en Ingeniería Informática y Administración y Dirección de Empresas en la Universidad de Granada. A lo largo de mi formación he trabajado en proyectos que combinan sistemas, automatización, agentes inteligentes y análisis de datos. Me apasiona diseñar soluciones eficientes y escalables, manteniendo el control técnico desde la infraestructura hasta la lógica algorítmica, siempre con una visión orientada a negocio.
 
 ## 🛠️ Tecnologías con las que he trabajado
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
@@ -18,22 +18,23 @@ Actualmente curso Ingeniería Informática y Administración y Dirección de Emp
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+🧠 **Data Science & Inteligencia Artificial**:
+- **Machine Learning**: Fundamentos teóricos y aplicación de Redes Neuronales, así como distintos modelos de Aprendizaje Supervisado y No Supervisado.
+- **Metaheurísticas**: Diseño e implementación en C++ de algoritmos evolutivos y meméticos (AGG, AGE, AM) aplicados a problemas complejos como la optimización de carteras de inversión.
+- **Búsqueda y Agentes**: Implementación de motores de búsqueda (Dijkstra, A*) para lógica reactiva y deliberativa.
 
-🧠 **IA aplicada**: diseño de heurísticas, implementación de motores de búsqueda como Dijkstra y A* para juegos y agentes, lógica reactiva y deliberativa.
+⚙️ **Computación Avanzada**:
+- Sólida base analítica en Teoría de la Complejidad (NP-completitud, L-space) para la evaluación y diseño de algoritmos altamente eficientes.
 
 ## 🎓 Próxima especialización
 
-Voy a realizar la mención en **Computación y Sistemas Inteligentes**, enfocándome en el desarrollo de algoritmos eficientes, agentes autónomos y sistemas capaces de adaptarse a entornos complejos. Me interesa especialmente la aplicación práctica de estas técnicas en contextos reales, desde juegos hasta entornos distribuidos y automatización inteligente.
+Actualmente cursando la mención en **Computación y Sistemas Inteligentes**, enfocándome en el desarrollo de algoritmos eficientes, agentes autónomos y sistemas capaces de adaptarse a entornos de alta incertidumbre. Me interesa especialmente la aplicación práctica de estas técnicas en el sector Fintech y el análisis de datos a gran escala.
 
 ## 📈 GitHub Stats
-
-![Jesús's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesurod&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesurod&layout=compact&theme=tokyonight)
+*(Mantienes tus enlaces e imágenes actuales aquí)*
 
 ## 📫 Contacto
 - 📧 Email: jesurod24@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-rodr%C3%ADguez-gonz%C3%A1lez-233b89281/)  
 - 🌐 [Portafolio (en desarrollo)](https://jesurod.github.io/)
+
