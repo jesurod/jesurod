@@ -30,9 +30,6 @@ Actualmente curso el Doble Grado en Ingeniería Informática y Administración y
 
 Actualmente cursando la mención en **Computación y Sistemas Inteligentes**, enfocándome en el desarrollo de algoritmos eficientes, agentes autónomos y sistemas capaces de adaptarse a entornos de alta incertidumbre. Me interesa especialmente la aplicación práctica de estas técnicas en el sector Fintech y el análisis de datos a gran escala.
 
-## 📈 GitHub Stats
-*(Mantienes tus enlaces e imágenes actuales aquí)*
-
 ## 📫 Contacto
 - 📧 Email: jesurod24@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-rodr%C3%ADguez-gonz%C3%A1lez-233b89281/)  
