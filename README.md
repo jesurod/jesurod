@@ -49,4 +49,4 @@ A lo largo de mi formación, he trabajado en proyectos integrales que abarcan de
 ## 📫 Contacto
 - 📧 Email: jesurod24@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-rodr%C3%ADguez-gonz%C3%A1lez-233b89281/)  
-- 🌐 [Portafolio (en desarrollo)](https://jesurod.github.io/)
+- 🌐 [Portafolio](https://jesurod.github.io/)
